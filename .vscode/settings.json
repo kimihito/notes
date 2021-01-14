@@ -21,5 +21,5 @@
   "foam.edit.linkReferenceDefinitions": "withoutExtensions",
   "foam.openDailyNote.directory": "journal",
   "foam.openDailyNote.titleFormat": "isoDate",
-  "gitdoc.enabled": true
+  "gitdoc.enabled": true,
 }
