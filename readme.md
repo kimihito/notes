@@ -1,6 +1,8 @@
-# Foam
+# Notes
 
 👋 Welcome to your new Foam Knowledge Base!
+
+[[journal]]
 
 ## Getting started
 
